@@ -1,0 +1,10 @@
+E:\VisualStudio\UACME\UACME\bin\Debug\UACME.exe.config
+E:\VisualStudio\UACME\UACME\bin\Debug\UACME.exe
+E:\VisualStudio\UACME\UACME\bin\Debug\UACME.pdb
+E:\VisualStudio\UACME\UACME\obj\Debug\UACME.csproj.AssemblyReference.cache
+E:\VisualStudio\UACME\UACME\obj\Debug\UACME.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\UACME\UACME\obj\Debug\UACME.Properties.Resources.resources
+E:\VisualStudio\UACME\UACME\obj\Debug\UACME.csproj.GenerateResource.cache
+E:\VisualStudio\UACME\UACME\obj\Debug\UACME.csproj.CoreCompileInputs.cache
+E:\VisualStudio\UACME\UACME\obj\Debug\UACME.exe
+E:\VisualStudio\UACME\UACME\obj\Debug\UACME.pdb
